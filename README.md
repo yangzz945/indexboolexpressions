@@ -1,4 +1,4 @@
-# indexboolexpressions
+# indexing bool expressions
 indexing boolean expressions dnf implements
 布尔表达式索引的DNF算法实现
 参考文献：
